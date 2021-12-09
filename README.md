@@ -1,1 +1,3 @@
 # WiiMote
+
+WiiFitでマウス動かす
